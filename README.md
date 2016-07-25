@@ -7,6 +7,11 @@ Utilities to complete and simplify the cakephp TimeHelper
 
   - a method to return a long or short date time without know php date format (only works on Windows Server)
 
+Compatibility
+----
+Cakephp 2.7
+(not tested on 2.8 branch)
+
 Version
 ----
 
